@@ -166,7 +166,7 @@ p > a {
 
 #pic > img {
     width: 300; 
-    height: 350px;
+    height: 400px;
 }
 
 .loaded #stick {
@@ -248,7 +248,7 @@ a {
     }
 
     #pic > img {
-        height: 280px;
+        height: 320px;
         width: 240px;
     }
 
@@ -331,7 +331,7 @@ a {
     }
 
     #pic > img {
-        height: 210px;
+        height: 240px;
         width: 180px;
     }
 }
